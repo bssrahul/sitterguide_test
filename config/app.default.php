@@ -217,7 +217,7 @@ return [
             //'port' => 'nonstandard_port_number',
             'username' => 'my_app',
             'password' => 'secret',
-            'database' => 'my_app',
+            'database' => 'my_app1',
             'encoding' => 'utf8',
             'timezone' => 'UTC',
             'cacheMetadata' => true,
